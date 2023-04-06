@@ -9,5 +9,5 @@ Welcome to my Github profile! I'm a frontend developer with a passion for creati
 ### My Coding Style
 I'm a big fan of clean, readable code and I always strive to write code that is easy to understand and maintain. I believe that good coding practices and attention to detail are essential for creating high-quality software.
 
-#### Contact Me
+### Contact Me
 If you'd like to get in touch, feel free to send me a message on Github or connect with me on LinkedIn. Let's create something amazing together!
