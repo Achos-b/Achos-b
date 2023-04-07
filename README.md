@@ -4,7 +4,7 @@ Welcome to my Github profile! I'm a frontend developer with a passion for creati
 ### My Skills
 * Frontend Development: HTML, CSS, JavaScript, React, Nextjs, Threejs.
 * Programming Languages: C, C++, Go.
-* Tools & Technologies: Git, Node.js, Sass, Webpack, Gulp, Photoshop, Sketch, Figma, GSAP.
+* Tools & Technologies: Git, Node.js, Sass, Webpack, Vite, Gulp, Figma, GSAP and more (Let me surprise you).
 
 ### My Coding Style
 I'm a big fan of clean, readable code and I always strive to write code that is easy to understand and maintain. I believe that good coding practices and attention to detail are essential for creating high-quality software.
